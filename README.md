@@ -6,4 +6,4 @@ comments are in the code. I'll put a more thorough readme with a short tutorial 
 
 # Requires
 The cryptographic functions used in this script are wrapped around the PyCryptodome library. it can be installed witih pip
-'''pip install pycryptodome'''
+```pip install pycryptodome```
